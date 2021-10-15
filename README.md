@@ -1,0 +1,4 @@
+- 👋 Hi, I'm Raphael Thierry
+- 👀 I'm interested in new friendships
+- 🌱 I'm currently on a server creator team focused on games
+- 📫 How to reach me, Discord : Raphael_.#6889
