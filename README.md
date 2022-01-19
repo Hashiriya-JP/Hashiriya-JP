@@ -3,8 +3,8 @@
 <img align="right" width="310" src="https://monophy.com/media/11kEuHSQAXXiGQ/monophy.gif" />
 
 ```Pawn
-  print{"Raphael Thierry"};
-  print{"Programer Pawn, Phyton, C++, Html, C#, C"};
+  print{"Name: Raphael Thierry"};
+  print{"Programer: Pawn, Phyton, C++, Html, C#, C"};
   print{"Some repositories of this profile are private for work reasons"};
 ```
 
