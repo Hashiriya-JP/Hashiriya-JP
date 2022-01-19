@@ -1,6 +1,6 @@
 ### Olá Mundo.
 
-<img align="right" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif" width="300"/>
+<img align="right" src="https://cdn.dribbble.com/users/14374/screenshots/3147608/media/8da45163336fc62161cd3ae7b302d925.gif" width="300"/>
 
 ```Pawn
   print{"Name: Raphael Thierry"};
