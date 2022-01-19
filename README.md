@@ -8,9 +8,16 @@
   print{"Some repositories of this profile are private for work reasons"};
 ```
 
-Olá, sou o Raphael 👋, sou programador iniciante nas linguagens, Phyton, Lua.
+Olá, sou o Raphael 👋, sou programador iniciante nas linguagens, Phyton.
+Porem já tenho experiencia nas lin.; C++, C Sharp, C, Html, Pawn,
+Atualmente tenho voltado meus estudos ao desenvolvimente de Games e Servidores/SA-MP.
+Sendo;
 
-Atualmente tenho voltado meus estudos ao desenvolvimento de Games e Servidores/SA-MP.
+- CEO LPD (Loucos por Drift)
+- CTO SAM (South América Mutiplayer)
+- CTO DI-SA (Software Development)
+
+Vamos trocar algumas ideias?, Discord: Raphael_.#6889.
 
 ## ⚡ Tecnologias 
 
