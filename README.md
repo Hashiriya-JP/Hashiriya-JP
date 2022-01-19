@@ -10,13 +10,6 @@
 
 ## **Languages:** 
 
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/190/190778.png"></code>
-<code><img height="30" src="https://image.flaticon.com/icons/png/512/919/919852.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"></code>
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/888/888859.png"></code>
-<code><img height="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png"></code>
-<code><img height="30" src="https://www.pinclipart.com/picdir/big/396-3965857_c-c-programming-language-logo-clipart.png"></code>
-
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
