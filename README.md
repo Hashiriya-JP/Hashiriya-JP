@@ -1,6 +1,6 @@
 - Hello welcome.
 
-<img align="right" width="310" src="https://monophy.com/media/11kEuHSQAXXiGQ/monophy.gif" />
+<img align="right" src="https://monophy.com/media/11kEuHSQAXXiGQ/monophy.gif" width="300"/>
 
 ```Pawn
   print{"Name: Raphael Thierry"};
@@ -8,7 +8,8 @@
   print{"Some repositories of this profile are private for work reasons"};
 ```
 
-## **Languages:** 
+
+## ⚡ Tecnologias 
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
