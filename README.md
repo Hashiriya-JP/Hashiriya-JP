@@ -4,10 +4,10 @@
 
 ```Pawn
   print{"Raphael Thierry"};
-  print{"Programer C++, C, C#, Phyton, Pawn, Html"};
+  print{"Programer Pawn, Phyton, Html, C++, C#, C"};
 ```
 
-## **Linguagens e Ferramentas Utilizadas:** 
+## **Linguagens:** 
 
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/190/190778.png"></code>
 <code><img height="30" src="https://image.flaticon.com/icons/png/512/919/919852.png"></code>
