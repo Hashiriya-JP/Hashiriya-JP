@@ -35,4 +35,4 @@ Vamos trocar algumas ideias?, Discord: Raphael_.#6889.
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![C++](https://static.wixstatic.com/media/856ce2_89444f5893514eed97833b358cae001c~mv2.png/v1/fill/w_980,h_490,al_c,q_90,usm_0.66_1.00_0.01/C-For-Beginner-Operators.webp)
+![Discord](https://static.wixstatic.com/media/856ce2_89444f5893514eed97833b358cae001c~mv2.png/v1/fill/w_980,h_490,al_c,q_90,usm_0.66_1.00_0.01/C-For-Beginner-Operators.webp)
