@@ -1,4 +1,4 @@
-###- Saudações 👋.
+### Saudações 👋.
 
 <img align="right" src="https://monophy.com/media/11kEuHSQAXXiGQ/monophy.gif" width="300"/>
 
