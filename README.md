@@ -1,4 +1,8 @@
-- 👋 Hi, I'm Raphael Thierry
-- 👀 I am interested in people starting in Pawn.
-- 🌱 I'm currently on a server creator team focused on games
-- 📫 How to reach me, Discord : Raphael_.#6889
+***✓ CEO - ***Loucos por Drift - SA-MP
+***✓ CTO - ***Mata Mata South América - SA-MP
+***✓ CTO - ***DI-SA - Software Development.
+
+***☬ Programer: C++, C#, C, Pawn, Phyton.
+
+***☬ LPD - ***https://discord.gg/XjRyB5rqBp
+***☬ SAM - ***https://discord.gg/uRr7xVNuaX
