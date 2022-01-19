@@ -7,7 +7,7 @@
   print{"Programer Pawn, Phyton, C++, Html, C#, C"};
 ```
 
-## **Linguagens:** 
+## **Languages:** 
 
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/190/190778.png"></code>
 <code><img height="30" src="https://image.flaticon.com/icons/png/512/919/919852.png"></code>
