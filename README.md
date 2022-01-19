@@ -4,4 +4,4 @@
 
 - CTO - DI-SA - Software Development.
 
-- Repositories of this profile are private, for work reasons.
+- Most of the repositories in this profile are private, for work reasons.
