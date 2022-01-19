@@ -4,7 +4,7 @@
 
 ```Pawn
   print{"Raphael Thierry"};
-  print{"Programer Pawn, Phyton, Html, C++, C#, C"};
+  print{"Programer Pawn, Phyton, C++, Html, C#, C"};
 ```
 
 ## **Linguagens:** 
