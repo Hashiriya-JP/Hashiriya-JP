@@ -3,10 +3,10 @@
 <img align="right" width="310" src="https://monophy.com/media/11kEuHSQAXXiGQ/monophy.gif" />
 
 ```C++
-  Nome = Raphael Thierry
-  Sobre = Programer C++, C, C#, Phyton, Pawn, Html
-  print('Nome');
-  print('Sobre');
+  new Nome = Raphael Thierry;
+  new Sobre = Programer C++, C, C#, Phyton, Pawn, Html;
+  print{"Nome"};
+  print{"Sobre"};
 ```
 
 ## **Linguagens e Ferramentas Utilizadas:** 
