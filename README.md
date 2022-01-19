@@ -3,13 +3,8 @@
 <img align="right" width="310" src="https://monophy.com/media/11kEuHSQAXXiGQ/monophy.gif" />
 
 ```Pawn
-  new Nome;
-  new Sobre; = Programer C++, C, C#, Phyton, Pawn, Html;
-
-  Nome = Raphael Thierry;
-
-  print{"Nome"};
-  print{"Sobre"};
+  print{"Raphael Thierry"};
+  print{"Programer C++, C, C#, Phyton, Pawn, Html"};
 ```
 
 ## **Linguagens e Ferramentas Utilizadas:** 
