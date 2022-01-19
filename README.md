@@ -2,6 +2,19 @@
 
 <img align="right" src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif" width="300"/>
 
+<div class="main-content">
+  <div class="example-code">
+    {% highlight javascript %}
+describe("A suite is just a function", function() {
+  var a;
+
+  it("and so is a spec", function() {
+    a = true;
+
+    expect(a).toBe(true);
+  });
+});
+
 ```Pawn
   print{"Name: Raphael Thierry"};
   print{"Programer: Pawn, Phyton, C++, Html, C#, C"};
