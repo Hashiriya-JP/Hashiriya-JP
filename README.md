@@ -8,7 +8,9 @@
   print{"Some repositories of this profile are private for work reasons"};
 ```
 
-Atualmente tenho voltado meus estudos ao desenvolvimento de Servidores e Banco de dados.
+Olá, sou o Raphael 👋, sou programador iniciante nas linguagens, Phyton, Lua.
+
+Atualmente tenho voltado meus estudos ao desenvolvimento de Games e Servidores/SA-MP.
 
 ## ⚡ Tecnologias 
 
