@@ -1,4 +1,4 @@
-- Hello welcome.
+###- Saudações 👋.
 
 <img align="right" src="https://monophy.com/media/11kEuHSQAXXiGQ/monophy.gif" width="300"/>
 
@@ -8,6 +8,7 @@
   print{"Some repositories of this profile are private for work reasons"};
 ```
 
+Atualmente tenho voltado meus estudos ao desenvolvimento de Servidores e Banco de dados.
 
 ## ⚡ Tecnologias 
 
