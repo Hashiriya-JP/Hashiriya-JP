@@ -13,9 +13,9 @@ Porem já tenho experiencia nas lin.; C++, C Sharp, C, Html, Pawn,
 Atualmente tenho voltado meus estudos ao desenvolvimente de Games e Servidores/SA-MP.
 Sendo;
 
-- CEO LPD (Loucos por Drift)
-- CTO SAM (South América Mutiplayer)
-- CTO DI-SA (Software Development)
+- CEO LPD (Loucos por Drift) RIP-2022
+- CTO SAM (South América Mutiplayer) RIP-2022
+- CTO DI-SA (Software Development) RIP-2022
 
 Vamos trocar algumas ideias?, Discord: Raphael_.#6889.
 
