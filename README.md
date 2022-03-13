@@ -1,25 +1,25 @@
-### Olá Mundo.
+### こんにちは世界.
 
 <img align="right" src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif" width="300"/>
 
 ```Pawn
-  print{"Name: Raphael Thierry"};
+  print{"Name: Hashiriya"};
   print{"Programer: Pawn, Phyton, C++, Html, C#, C"};
-  print{"Some repositories of this profile are private for work reasons"};
+  print{"Sこのプロファイルの一部のリポジトリは、作業上の理由で非公開になっています"};
 ```
 
-Olá, sou o Raphael 👋, sou programador iniciante nas linguagens, Phyton.
-Porem já tenho experiencia nas lin.; C++, C Sharp, C, Html, Pawn,
-Atualmente tenho voltado meus estudos ao desenvolvimente de Games e Servidores/SA-MP.
-Sendo;
+こんにちは、私はHashiriyaです👋、私は言語、Pythonの初心者プログラマーです.
+しかし、私はすでに林での経験があります。 C ++、Cシャープ、C、Html、ポーン,
+現在、私はゲームとサーバー/SA-MPの開発に研究を集中しています.
+であること;
 
-- CEO LPD (Loucos por Drift) R.I.P.-2022
-- CTO SAM (South América Mutiplayer) R.I.P.-2022
-- CTO DI-SA (Software Development) R.I.P.-2022
+- CEO LPD (ドリフトに夢中)
+- CEO SAM (南アメリカマルチプレイヤー)
+- CEO DI-SA (ソフトウェア開発)
 
-Vamos trocar algumas ideias?, Discord: Raphael_.#6889.
+アイデアを交換しましょうか, Discord: ︻︼─一 Hash#0002.
 
-## ⚡ Tecnologias 
+## ⚡ テクノロジー 
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
