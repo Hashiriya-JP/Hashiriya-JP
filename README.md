@@ -38,3 +38,4 @@
 
 
 ![Discord](https://static.wixstatic.com/media/856ce2_b7b68410091740dca76e2dc5a841030b~mv2.png/v1/fill/w_525,h_620,al_c,lg_1,q_85/lll.webp)
+![Discord](https://static.wixstatic.com/media/856ce2_b7b68410091740dca76e2dc5a841030b~mv2.png/v1/fill/w_525,h_620,al_c,lg_1,q_85/lll.webp)
