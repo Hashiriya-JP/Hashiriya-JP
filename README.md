@@ -3,7 +3,7 @@
 <img align="right" src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif" width="300"/>
 
 ```Pawn
-  print{"名前: Hashiriya"};
+  print{"名前: LogaN"};
   print{"プログラマー: Pawn, Phyton, C++, Html, C#, C"};
   print{"Sこのプロファイルの一部のリポジトリは、作業上の理由で非公開になっています"};
 ```
