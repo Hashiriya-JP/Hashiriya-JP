@@ -1,6 +1,6 @@
 ### こんにちは世界.
 
-<img align="right" src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif" width="300"/>
+<img align="right" src="https://i.pinimg.com/564x/0a/ff/8f/0aff8f34dd2be2d7a9c6dd3b166deeb6.jpg" width="300"/>
 
 ```Pawn
   print{"名前: LogaN"};
